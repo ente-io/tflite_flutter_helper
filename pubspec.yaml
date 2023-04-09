@@ -16,7 +16,7 @@ dependencies:
   tflite_flutter:
     git:
       url: https://github.com/ente-io/tflite_flutter_plugin
-      ref: 591be3a22aca43934ad6b0b3a48f3ee3fff8897a
+      ref: 6725a6ce36e2191a2604009a260bf75d45fe3ff2
   tuple: ^2.0.0
   camera: ^0.8.1+3
   ffi: ^1.0.0
