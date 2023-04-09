@@ -13,7 +13,10 @@ dependencies:
   meta: ^1.1.8
   quiver: ^3.0.1
   path_provider: ^2.0.1
-  tflite_flutter: ^0.9.0
+  tflite_flutter:
+    git:
+      url: https://github.com/ente-io/tflite_flutter_plugin
+      ref: 5c1e7f161bfc7d00d5f92b38f46644cd8e72fa5a
   tuple: ^2.0.0
   camera: ^0.8.1+3
   ffi: ^1.0.0
